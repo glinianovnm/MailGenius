@@ -1,0 +1,2 @@
+# MailGenius
+Вёрстка проекта MailGenius
